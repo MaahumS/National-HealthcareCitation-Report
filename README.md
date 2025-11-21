@@ -33,8 +33,8 @@ This dataset was sourced from the Centers for Medicare & Medicaid Services (CMS)
   - Removed duplicate records 
   - Performed necessary data type conversions (uniform dates, ZIP codes converted to text, etc.) 
   - Created calculated fields such as:
-  - `Days to Correction` (difference between correction date and survey date)  
-  - `Deficiency Status` (e.g., Past Non-Compliance, Waiver Granted, Other Corrected)  
+   `Days to Correction` (difference between correction date and survey date)  
+   `Deficiency Status` (e.g., Past Non-Compliance, Waiver Granted, Other Corrected)  
   - Shortened Deficiency Category labels for better readability in visuals 
 
 ---
