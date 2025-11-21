@@ -11,13 +11,13 @@ This dataset was sourced from the Centers for Medicare & Medicaid Services (CMS)
 
 
 **KPI's:**
-- 'Total Citations'
-- 'Total Facilities Surveyed'
+- `Total Citations`
+- `Total Facilities Surveyed`
 - `Deficiency Category`
 - `Scope Severity Code`
-- `Average Days to Correct'
+- `Average Days to Correct`
 - `Total Waivers Granted`
-- 'Total Citations Past Non-Compliance'
+- `Total Citations Past Non-Compliance`
 
 ---
 
