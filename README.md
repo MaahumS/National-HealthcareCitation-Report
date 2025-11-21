@@ -6,9 +6,11 @@
   
 ---
 
+## Preview 
+![Dashboard](preview/Dashboardpreview.png)
+
 ## 💼 Dataset Context
 This dataset was sourced from the Centers for Medicare & Medicaid Services (CMS) and contains hundreds of thousands of nursing home citation records across the United States.  
-
 
 **KPI's:**
 - `Total Citations`
